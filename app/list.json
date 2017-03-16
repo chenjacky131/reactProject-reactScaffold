@@ -1,0 +1,16 @@
+{
+	"lists":[
+		{"name":"jack",
+		 "age":12,
+		 "sex":"male"
+		},
+		{"name":"bruce",
+		 "age":13,
+		 "sex":"male"
+		},
+		{"name":"lucy",
+		 "age":18,
+		 "sex":"female"
+		}		
+	]
+}
